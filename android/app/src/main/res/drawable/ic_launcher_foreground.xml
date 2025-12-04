@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Abstract representation of flagscape logo: Blue stripes left, Red right -->
+    <path
+        android:fillColor="#00438F"
+        android:pathData="M30,30 L40,30 L40,78 L30,78 Z M44,30 L54,30 L54,78 L44,78 Z" />
+    <path
+        android:fillColor="#E31837"
+        android:pathData="M58,30 L78,30 L78,40 L58,40 Z M58,44 L78,44 L78,54 L58,54 Z M58,58 L78,58 L78,68 L58,68 Z M58,72 L78,72 L78,82 L58,82 Z" />
+</vector>
